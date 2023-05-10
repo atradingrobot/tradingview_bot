@@ -1,7 +1,9 @@
 # TradingView Alert Robot(警报机器人)
-TradingView是一款强大的图表工具，可以使用pine编写各类指标和策略，并提供回测功能。
-但TradingView并不支持直接帮你开平仓
-本项目可接收TradingView的Webhook（警报），并根据指令进行现货买卖或合约开平仓
+- TradingView是一款强大的图表工具，可以使用pine编写各类指标和策略，并提供回测功能。
+
+- 但TradingView并不支持直接帮你开平仓
+
+- 本项目可接收TradingView的Webhook（警报），并根据警报消息进行现货买卖或合约开平仓
 
 # 安装教程（请自行购买服务器）
 ## 以centos 7.6为例
